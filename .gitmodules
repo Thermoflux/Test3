@@ -1,0 +1,3 @@
+[submodule "PySnek"]
+	path = PySnek
+	url = https://github.com/Thermoflux/PySnek
